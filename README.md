@@ -52,9 +52,43 @@ Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API
 
 ## 📸 Screenshots
 
-| 🏠 Home | 🔎 Search | 📖 Details | ❤️ Favorites |
-|--------|----------|-------------|-------------|
-| ![](./mobile/assets/screens/home.png) | ![](./mobile/assets/screens/search.png) | ![](./mobile/assets/screens/details.png) | ![](./mobile/assets/screens/favorites.png) |
+### 🔐 Authentication Pages
+
+| Sign In | Sign Up | Logout |
+|---------|---------|--------|
+| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/signin.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/signup.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/logout.jpeg) |
+
+---
+
+### 🏠 Home Page 
+
+| Home 1 | Home 2 |
+|--------|--------|
+| ![](./mobile/assets/screens/home1.png) | ![](./mobile/assets/screens/home2.png) |
+
+---
+
+### 📖 Recipe Detail Page 
+
+| Detail 1 | Detail 2 | Detail 3 |
+|----------|----------|----------|
+| ![](./mobile/assets/screens/recipe1.png) | ![](./mobile/assets/screens/recipe2.png) | ![](./mobile/assets/screens/recipe3.png) |
+
+---
+
+### 🔍 Search Page 
+
+| Search 1 | Search 2 |
+|----------|----------|
+| ![](./mobile/assets/screens/search1.png) | ![](./mobile/assets/screens/search2.png) |
+
+---
+
+### ❤️ Favorites Page 
+
+| Favorites |
+|-----------|
+| ![](./mobile/assets/screens/favorites.png) |
 
 ---
 

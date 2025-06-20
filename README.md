@@ -64,7 +64,7 @@ Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API
 
 | Home 1 | Home 2 |
 |--------|--------|
-| ![](./mobile/assets/screens/home1.png) | ![](./mobile/assets/screens/home2.png) |
+| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/homepage1.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/homepage2.jpeg) |
 
 ---
 
@@ -72,7 +72,7 @@ Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API
 
 | Detail 1 | Detail 2 | Detail 3 |
 |----------|----------|----------|
-| ![](./mobile/assets/screens/recipe1.png) | ![](./mobile/assets/screens/recipe2.png) | ![](./mobile/assets/screens/recipe3.png) |
+| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpage1.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpag2.jpeg) | ![]([./mobile/assets/screens/recipe3.png](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpage3.jpeg)) |
 
 ---
 
@@ -80,7 +80,7 @@ Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API
 
 | Search 1 | Search 2 |
 |----------|----------|
-| ![](./mobile/assets/screens/search1.png) | ![](./mobile/assets/screens/search2.png) |
+| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/searchpage1.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/searchpage2.jpeg) |
 
 ---
 
@@ -88,7 +88,7 @@ Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API
 
 | Favorites |
 |-----------|
-| ![](./mobile/assets/screens/favorites.png) |
+| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/favouritepage.jpeg) |
 
 ---
 

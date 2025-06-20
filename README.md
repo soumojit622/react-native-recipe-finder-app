@@ -55,40 +55,41 @@ Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API
 ### 🔐 Authentication Pages
 
 | Sign In | Sign Up | Logout |
-|---------|---------|--------|
-| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/signin.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/signup.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/logout.jpeg) |
+|--------|---------|--------|
+| <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/signin.jpeg" width="250"/> | <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/signup.jpeg" width="250"/> | <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/logout.jpeg" width="250"/> |
 
 ---
 
-### 🏠 Home Page 
+### 🏠 Home Page
 
 | Home 1 | Home 2 |
 |--------|--------|
-| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/homepage1.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/homepage2.jpeg) |
+| <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/homepage1.jpeg" width="250"/> | <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/homepage2.jpeg" width="250"/> |
 
 ---
 
-### 📖 Recipe Detail Page 
+### 📖 Recipe Detail Page
 
 | Detail 1 | Detail 2 | Detail 3 |
 |----------|----------|----------|
-| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpage1.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpag2.jpeg) | ![]([./mobile/assets/screens/recipe3.png](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpage3.jpeg)) |
+| <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpage1.jpeg" width="250"/> | <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpag2.jpeg" width="250"/> | <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/particularpage3.jpeg" width="250"/> |
 
 ---
 
-### 🔍 Search Page 
+### 🔍 Search Page
 
 | Search 1 | Search 2 |
 |----------|----------|
-| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/searchpage1.jpeg) | ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/searchpage2.jpeg) |
+| <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/searchpage1.jpeg" width="250"/> | <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/searchpage2.jpeg" width="250"/> |
 
 ---
 
-### ❤️ Favorites Page 
+### ❤️ Favorites Page
 
 | Favorites |
 |-----------|
-| ![](https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/favouritepage.jpeg) |
+| <img src="https://github.com/soumojit622/react-native-recipe-finder-app/blob/master/images/favouritepage.jpeg" width="250"/> |
+
 
 ---
 

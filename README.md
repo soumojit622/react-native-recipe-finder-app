@@ -55,3 +55,41 @@ Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API
 | 🏠 Home | 🔎 Search | 📖 Details | ❤️ Favorites |
 |--------|----------|-------------|-------------|
 | ![](./mobile/assets/screens/home.png) | ![](./mobile/assets/screens/search.png) | ![](./mobile/assets/screens/details.png) | ![](./mobile/assets/screens/favorites.png) |
+
+---
+
+## 💬 **Contribute to Aspire**  
+
+We welcome contributions from developers and enthusiasts! To contribute:  
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. 🖊️ Commit your changes:
+    ```bash
+    git commit -m "Add your feature"
+    ```
+4. 🚀 Push the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. 🔀 Open a pull request to merge your changes.
+
+---
+
+## 📬 **Contact & Support**  
+
+💬 **Have any questions or suggestions? Feel free to reach out!**  
+
+📧 **Email**: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)  
+🔗 **LinkedIn**: [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
+
+---
+
+## 👨‍💻 **Developed by [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)**  
+
+If you enjoyed using this project, please ⭐ it on GitHub! 🌟  
+
+---

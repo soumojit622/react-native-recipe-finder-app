@@ -1,103 +1,57 @@
 # 🍽️ RecipeMate - Full Stack Recipe App
 
-A modern and elegant recipe discovery app built with **React Native (Expo)** for the frontend and **Node.js + Express** for the backend. Discover, search, and save your favorite recipes with ease.
+Welcome to **RecipeMate**, your elegant and modern solution for discovering delicious recipes!  
+Built with ❤️ using **React Native (Expo)** on the frontend and a **REST API with Express + PostgreSQL (Neon)** on the backend — powered by **MealDB API**.
 
 ---
 
-## 📱 Mobile App (Frontend)
+## 🚀 Tech Stack Overview
 
-The mobile app is built using:
+### 📱 Frontend (Mobile App)
 
-- React Native (Expo)
-- Expo Router
-- Tailwind CSS (NativeWind)
-- Clerk Authentication
-- ShadCN Components
-- Beautiful Animations + Gradient Overlays
-
----
-
-## 🌐 Backend API (Express)
-
-The backend is powered by:
-
-- Node.js + Express
-- RESTful API Architecture
-- MongoDB / PostgreSQL (via Drizzle ORM or Prisma)
-- Clerk Webhook Auth Integration
-- Secure API for Favorites, Recipes, and Users
+| Technology | Description                        |
+|------------|------------------------------------|
+| ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat) | Cross-platform mobile framework |
+| ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat) | Framework for streamlined React Native dev |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) | Styling with NativeWind |
+| ![Expo Router](https://img.shields.io/badge/-Expo%20Router-6E56CF?style=flat&logo=react) | Declarative routing for Expo apps |
+| ![Clerk](https://img.shields.io/badge/-Clerk%20Auth-F44A3F?logo=clerk&logoColor=white&style=flat) | Authentication and session management |
 
 ---
 
-## 🧠 Features
+### 🌐 Backend (API Server)
 
-### 👨‍🍳 Mobile App
-
-- Browse featured recipes
-- Search by name or ingredients
-- Filter categories like chicken, lamb, pork, etc.
-- View full recipe instructions and ingredients
-- Save recipes to your favorites
-- Clean, animated UI with beautiful gradients
-
-### 🛠️ Backend API
-
-- Fetch featured/random recipes
-- Search recipes by keyword or ingredient
-- Store and retrieve user favorites
-- Transform API response for mobile consumption
-- Secure endpoints
+| Technology | Description |
+|------------|-------------|
+| ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) | Lightweight backend framework |
+| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) | Relational DB using Neon |
+| ![Neon](https://img.shields.io/badge/-Neon%20DB-008B8B?style=flat&logo=postgresql&logoColor=white) | Serverless Postgres with branching |
+| ![REST API](https://img.shields.io/badge/-REST%20API-FF6B00?logo=api&logoColor=white&style=flat) | Clean and modular API endpoints |
+| ![MealDB](https://img.shields.io/badge/-MealDB%20API-FFB703?style=flat) | Recipe data provider |
 
 ---
 
-## 🌈 Screenshots
+## 🔥 Key Features
 
-| Home | Search | Recipe Details | Favorites |
-|------|--------|----------------|-----------|
+### 📱 Mobile App
+
+- 🔎 Browse & search recipes by name or ingredient
+- 🐔 Filter by categories (chicken, lamb, pork, etc.)
+- 📖 View step-by-step instructions & ingredients
+- ❤️ Save & manage your favorite recipes
+- 🎨 Stunning animations, gradients, and layout
+
+### 🧪 Backend API
+
+- 🍜 Fetch & transform recipe data from MealDB
+- 🧠 Save favorites securely to PostgreSQL (via Neon)
+- 🔐 Clerk webhooks for secure user-specific data
+- 🧾 Clean RESTful endpoints for easy frontend integration
+
+---
+
+## 📸 Screenshots
+
+| 🏠 Home | 🔎 Search | 📖 Details | ❤️ Favorites |
+|--------|----------|-------------|-------------|
 | ![](./mobile/assets/screens/home.png) | ![](./mobile/assets/screens/search.png) | ![](./mobile/assets/screens/details.png) | ![](./mobile/assets/screens/favorites.png) |
-
----
-
-## 🔐 Authentication
-
-Clerk is used for user authentication in the mobile app. You can configure it via:
-
-- `mobile/constants/clerkConfig.js`
-- `backend/.env` with your Clerk secret
-
----
-
-## ⚙️ API Endpoints Example
-
-- `GET /recipes/featured` → Get featured recipe  
-- `GET /recipes/search?q=pasta` → Search recipes  
-- `POST /favorites/:userId` → Save favorite  
-- `GET /favorites/:userId` → Get all favorites  
-
----
-
-## ✨ Live Demo / Deployment
-
-- 🟢 Mobile: [Expo.dev Link]  
-- 🟢 Backend: [Render / Railway link]
-
----
-
-## 👨‍💻 Author
-
-**Soumojit Banerjee**  
-B.Tech CSE @ Techno India University  
-[GitHub](https://github.com/soumojitbanerjee) • [LinkedIn](https://linkedin.com/in/soumojitbanerjee)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.  
-Feel free to use and improve it for your own projects!
-
----
-
-## 🤝 Contributions
-
-Pull requests are welcome! Please feel free to submit ideas or improvements.
